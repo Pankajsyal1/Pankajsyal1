@@ -11,7 +11,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Frontend Developer skilled in HTML5, CSS3, Bootstrap 3/4/5, WordPress, jQuery, JavaScript  Vuejs, Reactjs, Bootstrap, Git, Nuxtjs, SASS, Next.js, Angular, Svelte, Antdesign, Primeflex, Tailwind, and design tools like Adobe Photoshop, Adobe XD, and Figma.</i>
+    <i>- I'm a Frontend Developer skilled in HTML5, CSS3, Bootstrap 3/4/5, TailwindCSS, SASS, WordPress, jQuery, JavaScript, Vuejs, Reactjs, Nuxtjs, Next.js, Angular, Svelte, Antdesign, Primeflex,Primeng, Git and design tools like Adobe Photoshop, Adobe XD, and Figma.</i>
 </h3>
 
 <h3>
