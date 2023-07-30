@@ -34,16 +34,15 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Vuejs-18A303?style=for-the-badge&logo=vue&logoColor=18A303" alt="vuejs" />
     <img src="https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=vue&logoColor=18A303" alt="Angular" />
     <img src="https://img.shields.io/badge/Nextjs-100000?style=for-the-badge&logo=vue&logoColor=100000" alt="Nextjs" />
     <img src="https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=vue&logoColor=E34F26" alt="Svelte" />
     <img src="https://img.shields.io/badge/Nuxtjs-18A303?style=for-the-badge&logo=vue&logoColor=18A303" alt="Nuxtjs" />
+     <img src="https://img.shields.io/badge/Astro-18A303?style=for-the-badge&logo=vue&logoColor=18A303" alt="Astro" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
 
