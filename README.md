@@ -31,19 +31,19 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Vuejs-18A303?style=for-the-badge&logo=vue&logoColor=18A303" alt="vuejs" />
-    <img src="https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=Angular&logoColor=18A303" alt="Angular" />
-    <img src="https://img.shields.io/badge/Nextjs-100000?style=for-the-badge&logo=Nextjs&logoColor=100000" alt="Nextjs" />
-    <img src="https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=Svelte&logoColor=E34F26" alt="Svelte" />
-    <img src="https://img.shields.io/badge/Nuxtjs-18A303?style=for-the-badge&logo=Nuxtjs&logoColor=18A303" alt="Nuxtjs" />
-     <img src="https://img.shields.io/badge/Astro-473067?style=for-the-badge&logo=Astro&logoColor=473067" alt="Astro" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Vuejs-18A303?style=for-the-badge&logo=vue&logoColor=white" alt="vuejs" />
+    <img src="https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/Nextjs-100000?style=for-the-badge&logo=Nextjs&logoColor=white" alt="Nextjs" />
+    <img src="https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=Svelte&logoColor=white" alt="Svelte" />
+    <img src="https://img.shields.io/badge/Nuxtjs-18A303?style=for-the-badge&logo=Nuxtjs&logoColor=white" alt="Nuxtjs" />
+     <img src="https://img.shields.io/badge/Astro-473067?style=for-the-badge&logo=Astro&logoColor=white" alt="Astro" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/Antdesign-3bc7bd?style=for-the-badge&logo=Antdesign&logoColor=#1677ff" alt="Antdesign" />
+    <img src="https://img.shields.io/badge/Antdesign-3bc7bd?style=for-the-badge&logo=Antdesign&logoColor=white" alt="Antdesign" />
 </p>
 <br>
 
