@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Nextjs-100000?style=for-the-badge&logo=Nextjs&logoColor=100000" alt="Nextjs" />
     <img src="https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=Svelte&logoColor=E34F26" alt="Svelte" />
     <img src="https://img.shields.io/badge/Nuxtjs-18A303?style=for-the-badge&logo=Nuxtjs&logoColor=18A303" alt="Nuxtjs" />
-     <img src="https://img.shields.io/badge/Astro-18A303?style=for-the-badge&logo=Astro&logoColor=473067" alt="Astro" />
+     <img src="https://img.shields.io/badge/Astro-473067?style=for-the-badge&logo=Astro&logoColor=473067" alt="Astro" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/Antdesign-3bc7bd?style=for-the-badge&logo=Antdesign&logoColor=#1677ff" alt="Antdesign" />
