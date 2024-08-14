@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Henceforth Solutions as a Lead Frontend Developer</i>
+    <i>- Currently working as Frontend Developer</i>
 </h3>
 <br>
 
