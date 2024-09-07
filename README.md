@@ -73,14 +73,14 @@
 <br>
 
 <!----------------------------------- Career Information Section ------------------------------------>
-<p>
+<h2 align="center">
     I began my career as a web and graphic designer after completing a 6-month training program at BigBoxx Academy. During this time, I gained expertise in HTML5, CSS3, Bootstrap 3/4/5, WordPress, jQuery, and JavaScript. Additionally, I have worked extensively with Photoshop, Illustrator, and CorelDraw.
     I then joined LBM Solution as a Junior Frontend Developer and worked for 1.5 years, honing my skills in HTML5, CSS3, Responsive Web Design, JavaScript, Vuejs, Reactjs, Bootstrap, and Gitlab.
     Currently, I'm a Lead Frontend Developer at Henceforth Solution, where I specialize in HTML5, CSS3, SASS, Bootstrap-5, React.js, Next.js, Antdesign, Tailwind, and design tools like Adobe Photoshop, Adobe XD, and Figma. Additionally, I create admin frontends in PHP Laravel.
-</p>
+</h2>
 
 <!----------------------------------- Contact Information Section ------------------------------------>
-<p>
+<h3 align="center">
     <strong>Phone:</strong> +91 9478629522<br>
     <strong>Email:</strong> <a href="mailto:pankaj.syal1@gmail.com">pankaj.syal1@gmail.com</a>
-</p>
+</h3>
