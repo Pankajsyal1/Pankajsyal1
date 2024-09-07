@@ -12,7 +12,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working as Frontend Developer</i>
+    <i>- Currently working as Frontend Developer and Designer</i>
 </h3>
 <br>
 
