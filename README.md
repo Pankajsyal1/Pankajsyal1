@@ -74,5 +74,14 @@
     <a href="https://api.whatsapp.com/send/?phone=919478629522&text=I%27m+interested+in+website+design" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
+<a href="https://telegram.me/panku522" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://join.skype.com/invite/WJDN0F76RCeI" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" />
+</a>
+<a href="https://pankajsyal1.slack.com/team/U02MPFBJSK1" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+</a>
 
 </p>
