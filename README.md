@@ -43,9 +43,10 @@
    <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux toolkit" />
    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" />
    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
-   <img src="https://img.shields.io/badge/Motion-0088CC?style=for-the-badge&logo=motion&logoColor=white" alt="motion" />
    <img src="https://img.shields.io/badge/Astro-FF5D3D?style=for-the-badge&logo=astro&logoColor=white" alt="astro" />
+   <img src="https://img.shields.io/badge/Motion-0088CC?style=for-the-badge&logo=motion&logoColor=white" alt="motion" />
    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
+    <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="webflow" />
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=gsap&logoColor=white" alt="gsap" />
    <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" alt="framer" />
