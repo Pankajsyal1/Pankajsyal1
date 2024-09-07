@@ -20,9 +20,9 @@
 <h2><i>Tech Stack</i></h2>
 <p>
    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="photoshop" />
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="illustrator" />
-   <img src="https://img.shields.io/badge/XD-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="illustrator" />
+    <img src="https://img.shields.io/badge/Adobe%20XD-FF9A00?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="adobe xd" />
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
