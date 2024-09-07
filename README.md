@@ -65,7 +65,7 @@
 <a href="https://twitter.com/pankajk76520654" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-    <a href="https://my-portfolio-pankaj.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <a href="https://pankaj-portfolio-reactjs.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:mpankaj.syal1@gmail.com" title="pankaj.syal1@gmail.com">
