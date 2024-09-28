@@ -83,5 +83,8 @@
 <a href="https://pankajsyal1.slack.com/team/U02MPFBJSK1" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </a>
+<a href="https://stackoverflow.com/users/27401510/pankaj-syal" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
 
 </p>
