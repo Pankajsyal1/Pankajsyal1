@@ -20,11 +20,10 @@
 - 🔧 Enthusiastic about **code refactoring, code splitting, and writing reusable, scalable, maintainable code**.
 - 🔥 Strong understanding of **best practices, accessibility, and performance optimization**.
 
----
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 ## 🛠️ Tech Stack
-
+<p>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="photoshop" />
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="illustrator" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF9A00?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="adobe xd" />
@@ -64,8 +63,8 @@
 <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" alt="framer" />
 <img src="https://img.shields.io/badge/AOS-DA552F?style=for-the-badge&logo=aos&logoColor=white" alt="aos" />
 <img src="https://img.shields.io/badge/Motion-0088CC?style=for-the-badge&logo=motion&logoColor=white" alt="motion" />
+</p>
 
----
 
 ## 📫 Let's Connect
 
@@ -90,7 +89,6 @@
     </a>
 </p>
 
----
 
 Thanks for visiting my profile! 🚀 Let's build something amazing together. 😊
 
